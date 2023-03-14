@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7CC%20%7C%20C%2B%2B-orange" />
   <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20%7C%20Android%20Studio-yellow" />
+    <img src="https://img.shields.io/badge/Favorite%20Quote-The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.-green" />
 </p>
 <p align="center">
   <samp>
