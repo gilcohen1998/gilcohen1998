@@ -37,7 +37,6 @@ Check out some of my recent blog posts:
 - [Email](link)
 
 
-<!--
 **gilcohen1998/gilcohen1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -50,4 +49,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
