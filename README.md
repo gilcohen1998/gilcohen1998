@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there! I'm Gil Cohen</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Age-24-blue" />
-  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7CC%20%7C%20C%2B%2B-orange" />
-  <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20%7C%20Android%20Studio-yellow" />
+<img src="https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7CC%20%7C%20C%2B%2B%20%7C%20C%23-orange" />
+<img src="https://img.shields.io/badge/Tools-Visual%20Studio%20%7C%20Android%20Studio%20%7C%20IntelliJ%20IDEA%20%7C%20PyCharm-yellow" />
     <img src="https://img.shields.io/badge/Favorite%20Quote-The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.-green" />
 </p>
 <p align="center">
@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-E34F26?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 </p>
 <h2 align="center">📂 Projects</h2>
 <p align="center">
