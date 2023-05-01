@@ -24,6 +24,9 @@
   <a href="https://github.com/gilcohen1998/TaskList">📝 Tasklist</a> |
   <a href="https://github.com/gilcohen1998/ClickTheTree">🌳 ClickTheTree</a> |
   <a href="https://github.com/gilcohen1998/SaveThePuppy">🐶 SaveThePuppy</a>
+  
+  <p align="center">
+  <a href="https://github.com/stars/gilcohen1998/lists/team-projects"> Team projects</a>
 
 <h2 align="center">📞 Connect with Me</h2>
 <p align="center">
