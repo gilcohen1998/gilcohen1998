@@ -16,7 +16,10 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-E34F26?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-00599C?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NodeJS-E34F26?style=flat&logoColor=white" />
 </p>
 <h2 align="center">📂 Projects</h2>
 <p align="center">
