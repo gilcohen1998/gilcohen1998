@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Gil Cohen</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-24-blue" />
-<img src="https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7CC%20%7C%20C%2B%2B%20%7C%20C%23-orange" />
+  <img src="https://img.shields.io/badge/Age-26-blue" />
+<img src="https://img.shields.io/badge/Languages-Java%20%7C%20JavaScript%20%7C%20Python%20%7CC%20%7C%20C%2B%2B%20%7C%20C%23-orange" />
 <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20%7C%20Android%20Studio%20%7C%20IntelliJ%20IDEA%20%7C%20PyCharm-yellow" />
     <img src="https://img.shields.io/badge/Favorite%20Quote-The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.-green" />
 </p>
